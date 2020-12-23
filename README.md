@@ -25,5 +25,5 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 📊 **My Skills:**
 
 - OS: Linux
-- Language: C++ for competive programming, java for software, python for research
+- Language: C++ for competive programming, Java for software, Python for research
 - Framework: Spring
