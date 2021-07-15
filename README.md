@@ -13,7 +13,7 @@ Hi, I'm Le Quang Duy, a Software Fresher from Vietnam, currently, I'm learning i
 
 ##### **Personal Stuffs:**
 
-- 🌱 I’m currently do with projects related to image processing.
+- 🌱 I’m currently do with projects related to Computer Vision.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: quangduynb00@gmail.com
 - 📝[Resume](https://www.topcv.vn/)
