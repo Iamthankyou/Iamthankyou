@@ -26,4 +26,4 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 - OS: Linux
 - Language: C++ for competive programming, Java for software, Python for research
-- Framework: Spring, asp.net
+- Framework: Spring, Asp.net, Tensorflow, VueJs
